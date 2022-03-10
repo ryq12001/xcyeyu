@@ -3,7 +3,7 @@
 
 
 ## Java核心技术
-- [Java基础](./Java核心技术/Java基础)
+- [Java基础](./Java核心技术/Java基础.md)
 - 更新中...
 
 
